@@ -83,7 +83,7 @@ created using the scripts below.
 		<td style="background:#569CD6; color:#000000; font-weight:bold;">OpenLDRDict</td>
 	</tr>
 	<tr style="background-color:#000000;">
-		<td style="vertical-align:top;">
+		<td  valign="top">
 
 ```sql
 USE "master";
