@@ -75,11 +75,8 @@ created using the scripts below.
 	
 <table style="width: 100%; display: table;">
 	<tr>
-		<th colspan="2" style="background:#000000; color:#ffffff;">MS SQL</th>
-	</tr>
-	<tr>
-		<td style="background:#569CD6; color:#000000; font-weight:bold;">OpenLDRData</td>
-		<td style="background:#569CD6; color:#000000; font-weight:bold;">OpenLDRDict</td>
+		<td>OpenLDRData</td>
+		<td>OpenLDRDict</td>
 	</tr>
 	<tr bgcolor="#f6f8fa">
 		<td valign="top">
@@ -420,14 +417,11 @@ CREATE TABLE "dbo"."VersionControl"(
 <details>
 <summary>MySQL</summary>
 <table style="width: 100%; display: table;">
-<tr>
-		<th colspan="2" style="background:#000000; color:#ffffff;">MySQL</th>
+	<tr>
+		<td>OpenLDRData</td>
+		<td>OpenLDRDict</td>
 	</tr>
 	<tr>
-		<td style="background:#569CD6; color:#000000; font-weight:bold;">OpenLDRData</td>
-		<td style="background:#569CD6; color:#000000; font-weight:bold;">OpenLDRDict</td>
-	</tr>
-	<tr style="background-color:#000000;">
 		<td valign="top">
 
 ```sql
@@ -755,14 +749,11 @@ CREATE TABLE `VersionControl`(
 <details>
 <summary>PostgreSQL</summary>
 <table style="width: 100%; display: table;">
-<tr>
-		<th colspan="2" style="background:#000000; color:#ffffff;">PostgreSQL</th>
+	<tr>
+		<td>OpenLDRData</td>
+		<td>OpenLDRDict</td>
 	</tr>
 	<tr>
-		<td style="background:#569CD6; color:#000000; font-weight:bold;">OpenLDRData</td>
-		<td style="background:#569CD6; color:#000000; font-weight:bold;">OpenLDRDict</td>
-	</tr>
-	<tr style="background-color:#000000;">
 		<td valign="top"">
 
 ```sql
@@ -782,14 +773,11 @@ CREATE TABLE `VersionControl`(
 <details>
 <summary>SQLite</summary>
 <table style="width: 100%; display: table;">
-<tr>
-		<th colspan="2" style="background:#000000; color:#ffffff;">SQLite</th>
+	<tr>
+		<td>OpenLDRData</td>
+		<td>OpenLDRDict</td>
 	</tr>
 	<tr>
-		<td style="background:#569CD6; color:#000000; font-weight:bold;">OpenLDRData</td>
-		<td style="background:#569CD6; color:#000000; font-weight:bold;">OpenLDRDict</td>
-	</tr>
-	<tr style="background-color:#000000;">
 		<td valign="top">
 
 ```sql
