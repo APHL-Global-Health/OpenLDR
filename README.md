@@ -83,7 +83,7 @@ created using the scripts below.
 		<td style="background:#569CD6; color:#000000; font-weight:bold;">OpenLDRDict</td>
 	</tr>
 	<tr style="background-color:#000000;">
-		<td  valign="top">
+		<td valign="top">
 
 ```sql
 USE "master";
@@ -429,7 +429,7 @@ CREATE TABLE "dbo"."VersionControl"(
 		<td style="background:#569CD6; color:#000000; font-weight:bold;">OpenLDRDict</td>
 	</tr>
 	<tr style="background-color:#000000;">
-		<td style="vertical-align:top;">
+		<td valign="top">
 
 ```sql
 CREATE DATABASE `OpenLDRData`;
@@ -764,7 +764,7 @@ CREATE TABLE `VersionControl`(
 		<td style="background:#569CD6; color:#000000; font-weight:bold;">OpenLDRDict</td>
 	</tr>
 	<tr style="background-color:#000000;">
-		<td style="vertical-align:top;">
+		<td valign="top"">
 
 ```sql
 --Not yet implemented
@@ -791,7 +791,7 @@ CREATE TABLE `VersionControl`(
 		<td style="background:#569CD6; color:#000000; font-weight:bold;">OpenLDRDict</td>
 	</tr>
 	<tr style="background-color:#000000;">
-		<td style="vertical-align:top;">
+		<td valign="top">
 
 ```sql
 CREATE TABLE `LabResults`(
