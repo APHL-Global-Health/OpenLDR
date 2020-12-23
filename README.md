@@ -3,7 +3,7 @@ Open Laboratory Data Repository
 
 ![](/images/version.svg) ![](/images/license.svg) ![](/images/database_platforms.svg)
 
-<a href="/scripts/sql/mssql.sql" download>mssql.sql</a>
+<a href="/files/sql/mssql.sql" download>mssql.sql</a>
 
 The OpenLDR provides a single storage location for the country-wide electronic data regarding laboratory 
 requests and results. This allows laboratory systems managers to easily view relevant data on the entire 
