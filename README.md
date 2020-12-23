@@ -81,7 +81,7 @@ created using the scripts below.
 		<td style="background:#569CD6; color:#000000; font-weight:bold;">OpenLDRData</td>
 		<td style="background:#569CD6; color:#000000; font-weight:bold;">OpenLDRDict</td>
 	</tr>
-	<tr style="background-color:#000000;">
+	<tr bgcolor="#f6f8fa">
 		<td valign="top">
 
 ```sql
