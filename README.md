@@ -68,8 +68,9 @@ in a database instance named **OpenLDRData**. "Dictionary" tables hold the stand
 and coded information used for look-ups and supplemental information and are stored in a 
 database instance named **OpenLDRDict**. This separation into separate database instances is 
 not strictly necessary but allows for more flexibility in data storage. The instances can be
-created using the scripts : [Microsoft SQL](/files/sql/mssql.zip), [MySQL](/files/sql/mysql.zip)
-, [Postgres](/files/sql/postgresql.zip), [SQLite](/files/sql/sqlite.zip).
+created on [Microsoft SQL](/files/sql/mssql.zip), [MySQL](/files/sql/mysql.zip)
+, [Postgres](/files/sql/postgresql.zip) or [SQLite](/files/sql/sqlite.zip) using the scripts 
+provived.
 
 The column names within the tables have been chosen to be descriptive, and where they refer 
 to a coding system, the name is prefixed by the coding system acronym.  The data model also 
