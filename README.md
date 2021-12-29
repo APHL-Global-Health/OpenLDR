@@ -190,6 +190,10 @@ There are several ways of starting the tool, the prefered methods are
 
 `npm run start:all` or  `npm run start:openldr`
 
+If you used the git clone method, you can fetch updates like
+
+`git pull origin main`
+
 ## Documentation
 
 For full documentation about OpenLDR, visit [openldr.org](http://openldr.org/)
