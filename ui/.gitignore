@@ -1,4 +1,4 @@
 .env
 node_modules/
-certs/*
+certs/*.*
 package-lock.json
