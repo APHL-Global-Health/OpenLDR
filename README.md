@@ -206,3 +206,6 @@ For full documentation about OpenLDR, visit [openldr.org](http://openldr.org/)
 - [ ] Public: Production-ready
 
 We are currently in Public Alpha. Watch "releases" of this repo to get notified of major updates.
+
+# Inspired by
+- [Supabase](https://supabase.com/) : an open source Firebase alternative
