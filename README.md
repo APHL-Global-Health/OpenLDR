@@ -182,7 +182,7 @@ Download the source from [here](https://github.com/APHL-Global-Health/OpenLDR) o
 
 `git clone https://github.com/APHL-Global-Health/OpenLDR.git`
 
-Inside the management tool root directory, download the dependencies required using npm like
+Navigate to `OpenLDR` directory and download the dependencies required using npm like
 
 `npm i`
 
