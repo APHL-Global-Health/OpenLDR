@@ -1,0 +1,45 @@
+{
+  "name": "kaga_connect_portal",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "doc": "doc"
+  },
+  "scripts": {
+    "start:all": "node ui/index.js",
+    "dev:all": "nodemon ui/index.js",
+    "start:bando": "node api/projects/bando/src/index.js",
+    "dev:bando": "nodemon api/projects/bando/src/index.js",
+    "start:openldr": "node api/projects/openldr/src/index.js",
+    "dev:openldr": "nodemon api/projects/openldr/src/index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "cookie-parser": "^1.4.6",
+    "dotenv": "^10.0.0",
+    "easy-soap-request": "^4.5.0",
+    "express": "^4.17.2",
+    "express-xml-bodyparser": "^0.3.0",
+    "fast-xml-parser": "^4.0.0-beta.8",
+    "gsm": "^0.1.4",
+    "http-proxy-middleware": "^2.0.1",
+    "jayson": "^3.6.6",
+    "jsonwebtoken": "^8.5.1",
+    "lodash": "^4.17.21",
+    "mongoose": "^6.1.4",
+    "mssql": "^7.3.0",
+    "nanoid": "^3.1.30",
+    "natural-compare-lite": "^1.4.0",
+    "nodemon": "^2.0.15",
+    "serve-favicon": "^2.5.0",
+    "smpp": "^0.6.0-rc.1",
+    "swagger-jsdoc": "^6.1.0",
+    "uglify-js": "^3.14.5",
+    "uuid": "^8.3.2",
+    "ws": "^8.4.0"
+  }
+}

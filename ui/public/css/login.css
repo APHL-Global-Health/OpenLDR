@@ -1,0 +1,75 @@
+
+body {
+  background: #1f1f1f;
+  font-family: ulp-font, -apple-system, BlinkMacSystemFont, Roboto, Helvetica, sans-serif;
+}
+.c66541626 {
+  background: #1f1f1f;
+}
+.c8cefe7cc.cd28a0293 {
+  background: #D00E17;
+}
+.c8cefe7cc.c33272834 {
+  background: #0A8852;
+}
+.c0b512bff {
+  background-color: #48bb78;
+  color: #333c4d;
+}
+.c0b512bff a,
+.c0b512bff a:visited {
+  color: #333c4d;
+}
+.c3a5d53f4 {
+  background-color: #0A8852;
+}
+.ca34ccfa7 {
+  background-color: #D00E17;
+}
+@supports (mask-image: url('/static/img/branding-generic/copy-icon.svg')) {
+  @supports not (-ms-ime-align: auto) {
+    .c02a080f8.c3487a952::before {
+      background-color: #D00E17;
+    }
+  }
+}
+.input.c976039fd {
+  border-color: #D00E17;
+}
+.error-cloud {
+  background-color: #D00E17;
+}
+.error-fatal {
+  background-color: #D00E17;
+}
+.error-local {
+  background-color: #D00E17;
+}
+.c9b3447f0.c3487a952 {
+  background-color: #D00E17;
+  border-color: #D00E17;
+}
+.c9b3447f0.c3487a952::before {
+  border-bottom-color: #D00E17;
+}
+.c9b3447f0.c3487a952::after {
+  border-bottom-color: #D00E17;
+}
+#alert-trigger {
+  background-color: #D00E17;
+}
+
+.form-group .form-control {
+    position:relative;
+	background:#fff;
+	align-items:center;
+	width:100%;
+	font-size:16px;
+	font-size:var(--lg-font-size);
+	height:52px;
+	height:var(--button-height);
+	border:1px solid #c2c8d0;
+	border-radius: var(--button-border-radius);
+	color:#2d333a;
+	text-align:center;
+}
