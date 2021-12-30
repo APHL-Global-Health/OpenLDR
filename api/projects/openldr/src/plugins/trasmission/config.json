@@ -1,0 +1,7 @@
+{
+  "id": "2a455929-edc1-4879-994f-5e0bf0d76a6a",
+  "name": "Transmission Report",
+  "description": "Reporting tool that shows if any selected test data was received on a particular day",
+  "activate": true,
+  "schema": "extensions"
+}

@@ -342,13 +342,11 @@ const get_query_value = (value, key, db_driver) => {
 }
 
 const get_query = (url, db_driver) => {
-    console.log(db_driver);
                 
     if(db_driver == "mongodb"){
         let statement = "";
         for (const [key, value] of url.searchParams) {
             let _key = get_query_key(key);
-            console.log(_key);
                 
             if (!is_sql_injection(value)){
                 var _statement = (_key.parentheses_open ? " ( " : "") + _key.operator + " (";
